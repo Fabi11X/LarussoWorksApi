@@ -1,0 +1,90 @@
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.deps.json
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.json
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.dev.json
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.genruntimeconfig.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.deps.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.dev.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfo.cs
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.genruntimeconfig.cache
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.deps.json
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.json
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.dev.json
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.AssemblyReference.cache
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfoInputs.cache
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfo.cs
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.genruntimeconfig.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.deps.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.dev.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfo.cs
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\RuthDominguez\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.genruntimeconfig.cache
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.deps.json
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.json
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.dev.json
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.AssemblyReference.cache
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfoInputs.cache
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfo.cs
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\fabia\Desktop\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.genruntimeconfig.cache
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.deps.json
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.json
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.runtimeconfig.dev.json
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\bin\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.AssemblyReference.cache
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfoInputs.cache
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.AssemblyInfo.cs
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\ref\LarussoWorksApi.Domain.dll
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.pdb
+C:\Users\fabia\Desktop\Cuatrimestre5\AplicacionesWeb\ProyectoLarusso\Proyecto\LarussoWorksApi\LarussoWorksApi.Domain\obj\Debug\net5.0\LarussoWorksApi.Domain.genruntimeconfig.cache
